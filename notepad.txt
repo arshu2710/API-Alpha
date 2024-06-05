@@ -1,0 +1,12 @@
+CRUD
+PetStore-pets
+ReqRes-users     "id": "720",
+
+Base URL: https://petstore.swagger.io/v2/pet
+URI=URL+URN(end point)
+"id": 9223372036854775807
+"id": 9223372036854775807
+
+Status codes:
+*404 Not found= The protocol & the end point was missing.
+*415 Unsupported Media Type=The body was missing for post method
